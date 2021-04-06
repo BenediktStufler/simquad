@@ -453,8 +453,8 @@ int simquad(struct cmdarg *comarg, gsl_rng **rgens) {
 		wclosure(map, n, rgens[0]);
 
 		//DEBUG
-		debug_out_hedge(map, 4*n);
-		exit(-1);
+		//debug_out_hedge(map, 4*n);
+		//exit(-1);
 
 		/* output half edge*/
 		outhedge(map, 4*n);
