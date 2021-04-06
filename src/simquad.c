@@ -1,8 +1,8 @@
 /*
- * grant - generate random trees
+ * simquad - generate uniform simple quadrangulations
  *
  *
-	Copyright (C) 2018 Benedikt Stufler
+	Copyright (C) 2021 Benedikt Stufler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
