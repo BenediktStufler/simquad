@@ -48,7 +48,7 @@ simquad -s 10
 
 
 *
-* 4. LICENCE
+* 4. LICENSE
 *
 
 Copyright (C) 2021 Benedikt Stufler
