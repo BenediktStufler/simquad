@@ -27,7 +27,7 @@ void spush(struct stack **st, int val) {
         *st = mew;
 }
 
-int spop(struct stack **st) {
+INT spop(struct stack **st) {
         struct stack *cur;
         int ret;
 
